@@ -24,8 +24,8 @@ It enables users to: - Extract transcripts from YouTube videos\
 ## 🧠 System Architecture
 
 The system follows a modern Retrieval-Augmented Generation pipeline:
+<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/db423661-cf3d-4c93-88c4-1113cddd721f" />
 
-![Architecture Diagram](<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/bae8261f-8b71-43ac-b955-57848ef0052d" />)
 
 ### 🔄 Pipeline Flow
 
